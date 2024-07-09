@@ -6,3 +6,4 @@ html5lib
 validators
 fake_useragent
 requests[security]
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
